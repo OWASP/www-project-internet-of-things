@@ -13,7 +13,7 @@ The OWASP Internet of Things Project is designed to help manufacturers, develope
 
 The project looks to define a structure for various IoT sub-projects separated into the following categories - Seek & Understand, Validate & Test, and Governance. Right now, you can find the following active and upcoming OWASP Internet of Things projects:
 
-**Seek & Understand**
+### Seek & Understand
 
 | **Project** | **Project Leader(s)** | **Description** |
 ---------|----------|----------|
@@ -21,15 +21,15 @@ The project looks to define a structure for various IoT sub-projects separated i
  [IoT Top 10 Mapping Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=OWASP_IoT_Top_10_2018_Mapping_Project) | Aaron Guzman <br/> José A. Rivas | <br/>![IoT Top 10 2018](/assets/images/20142018iotMapping.png) Provides mappings of the OWASP IoT Top 10 2018 to industry publications and sister projects.
  [IoTGoat](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoTGoat) | Aaron Guzman <br/> Fotios Chantzis <br/> Paulino Calderon | <br/> ![IoTGoat](/assets/images/blue-logo-text.png) IoTGoat is a deliberately insecure firmware based on OpenWrt. The project’s goal is to teach users about the most common vulnerabilities typically found in IoT devices. The vulnerabilities will be based on the top 10 vulnerabilities as documented by OWASP: https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project. IoTGoat is expected to be released by December 2019.
 
-**Validate & Test**
+### Validate & Test
 
  | **Project** | **Project Leader(s)** | **Description** |
 ---------|----------|----------|
  [Firmware Analysis Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Firmware_Analysis) | Craig Smith | The Firmware Analysis Project provides: Security testing guidance for vulnerabilities in the "Device Firmware" attack surface, Steps for extracting file systems from various firmware files, Guidance on searching a file systems for sensitive of interesting data, Information on static analysis of firmware contents, Information on dynamic analysis of emulated services (e.g. web admin interface), Testing tool links, and a site for pulling together existing information on firmware analysis
- [Firmware Security Testing Methodology (FSTM)](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Firmware_Security_Testing_Methodology) | Aaron Guzman | <br/> ![FSTM](/assets/images/cover_ofstm.png) The Firmware Security Testing Methodology is composed of nine stages tailored to enable security researchers, software developers, consultants, hobbyists, and Information Security professionals with conducting firmware security assessments. <br/> GitHub: https://github.com/scriptingxss/owasp-fstm
+ [Firmware Security Testing Methodology (FSTM)](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Firmware_Security_Testing_Methodology) | Aaron Guzman | <br/> ![FSTM](/assets/images/cover_ofstm.png) The Firmware Security Testing Methodology is composed of nine stages tailored to enable security researchers, software developers, consultants, hobbyists, and Information Security professionals with conducting firmware security assessments. <br/> GitHub:https://github.com/scriptingxss/owasp-fstm
  [ByteSweep](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=ByteSweep) | Matt Brown |  ByteSweep is a Free Software IoT security analysis platform. This platform will allow IoT device makers, large and small, to conduct fully automated security checks before firmware is shipped.
 
-**Governance** 
+### Governance
 
  |  **Project** | **Project Leader(s)** | **Description** |
 ---------|----------|----------|
