@@ -1,22 +1,40 @@
 ---
 
 layout: col-sidebar
-title: OWASP [GROUPNAME]
-tags: example-tag
-level: 4
-type: 
+title: OWASP Internet of Things
+tags: iot
+level: 3
 
 ---
 
-<!-- rebuild 1 -->
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+![OWASP Internet of Things image](/assets/images/owasp_iotlogo.png)
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+The OWASP Internet of Things Project is designed to help manufacturers, developers, and consumers better understand the security issues associated with the Internet of Things, and to enable users in any context to make better security decisions when building, deploying, or assessing IoT technologies.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+The project looks to define a structure for various IoT sub-projects separated into the following categories - Seek & Understand, Validate & Test, and Governance. Right now, you can find the following active and upcoming OWASP Internet of Things projects:
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+**Seek & Understand**
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+| **Project** | **Project Leader(s)** | **Description** |
+---------|----------|----------|
+ [IoT Top 10 ](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoT_Top_10) | Daniel Miessler <br/> Aaron Guzman  <br/> Vishruta Rudresh <br/> Craig Smith |  <p align="center"><img src="/assets/images/OWASP-IoT-Top-10-2018-final.jpg" alt="IoT Top 10 2018" width="250" height="350" /></p>Top ten things to avoid when building, deploying or managing IoT systems.
+ [IoT Top 10 Mapping Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=OWASP_IoT_Top_10_2018_Mapping_Project) | Aaron Guzman <br/> José A. Rivas | <p align="center"><img src="/assets/images/20142018iotMapping.png" alt="IoT Top 10 2018" width="400" height="350" /></p>Provides mappings of the OWASP IoT Top 10 2018 to industry publications and sister projects.
+ [IoTGoat](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoTGoat) | Aaron Guzman <br/> Fotios Chantzis <br/> Paulino Calderon | <br/> <p align="center"><img src="/assets/images/vertical-blue-logo.png" alt="IoTGoat" width="250" height="350" /></p> IoTGoat is a deliberately insecure firmware based on OpenWrt. The project’s goal is to teach users about the most common vulnerabilities typically found in IoT devices. The vulnerabilities will be based on the top 10 vulnerabilities as documented by OWASP: https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project. IoTGoat is expected to be released by December 2019.
 
-type: For projects, one of documentation, code, or tool
+**Validate & Test**
+ | **Project** | **Project Leader(s)** | **Description** |
+---------|----------|----------|
+ [Firmware Analysis Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Firmware_Analysis) | Craig Smith | The Firmware Analysis Project provides: Security testing guidance for vulnerabilities in the "Device Firmware" attack surface, Steps for extracting file systems from various firmware files, Guidance on searching a file systems for sensitive of interesting data, Information on static analysis of firmware contents, Information on dynamic analysis of emulated services (e.g. web admin interface), Testing tool links, and a site for pulling together existing information on firmware analysis
+ [Firmware Security Testing Methodology (FSTM)](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Firmware_Security_Testing_Methodology) | Aaron Guzman | <br/> <p align="center"><img src="/assets/images/cover_ofstm.png" alt="fstm" width="350" height="450" /></p> The Firmware Security Testing Methodology is composed of nine stages tailored to enable security researchers, software developers, consultants, hobbyists, and Information Security professionals with conducting firmware security assessments. <br/> GitHub: https://github.com/scriptingxss/owasp-fstm
+ [ByteSweep](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=ByteSweep) | Matt Brown |  ByteSweep is a Free Software IoT security analysis platform. This platform will allow IoT device makers, large and small, to conduct fully automated security checks before firmware is shipped.
+
+**Governance** 
+ |  **Project** | **Project Leader(s)** | **Description** |
+---------|----------|----------|
+ Catalogue of IoT regulatory policies and Certifications| TBD | TBD
+
+
+
+Not what you are looking for? Please have a look at the [Internet of Things Page Archive](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project).
+
+Want to start a new IoT security project? Follow [https://www.owasp.org/index.php/Category:OWASP_Project#Starting_a_New_Project](https://www.owasp.org/index.php/Category:OWASP_Project#Starting_a_New_Project) or contact one of the leaders of the active projects.

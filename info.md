@@ -1,17 +1,13 @@
-### [GROUPNAME] Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+### Active OWASP Internet of Things projects
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+[OWASP Firmware Security Testing Methodology](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Firmware_Security_Testing_Methodology)
 
-### Code Repository
-* [repo](#)
+[OWASP IoT Top 10](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoT_Top_10)
 
-### Change Log
-* [changes](#)
+[OWASP IoT Top 10 Mapping Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=OWASP_IoT_Top_10_2018_Mapping_Project)
 
+[OWASP IoTGoat](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoTGoat)
+
+[ByteSweep](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=ByteSweep)
+
+[Firmware Analysis Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Firmware_Analysis)
