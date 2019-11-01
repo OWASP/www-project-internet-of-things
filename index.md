@@ -22,6 +22,7 @@ The project looks to define a structure for various IoT sub-projects separated i
  [IoTGoat](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoTGoat) | Aaron Guzman <br/> Fotios Chantzis <br/> Paulino Calderon | <br/> <p align="center"><img src="/assets/images/vertical-blue-logo.png" alt="IoTGoat" width="250" height="350" /></p> IoTGoat is a deliberately insecure firmware based on OpenWrt. The project’s goal is to teach users about the most common vulnerabilities typically found in IoT devices. The vulnerabilities will be based on the top 10 vulnerabilities as documented by OWASP: https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project. IoTGoat is expected to be released by December 2019.
 
 **Validate & Test**
+
  | **Project** | **Project Leader(s)** | **Description** |
 ---------|----------|----------|
  [Firmware Analysis Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Firmware_Analysis) | Craig Smith | The Firmware Analysis Project provides: Security testing guidance for vulnerabilities in the "Device Firmware" attack surface, Steps for extracting file systems from various firmware files, Guidance on searching a file systems for sensitive of interesting data, Information on static analysis of firmware contents, Information on dynamic analysis of emulated services (e.g. web admin interface), Testing tool links, and a site for pulling together existing information on firmware analysis
@@ -29,11 +30,10 @@ The project looks to define a structure for various IoT sub-projects separated i
  [ByteSweep](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=ByteSweep) | Matt Brown |  ByteSweep is a Free Software IoT security analysis platform. This platform will allow IoT device makers, large and small, to conduct fully automated security checks before firmware is shipped.
 
 **Governance** 
+
  |  **Project** | **Project Leader(s)** | **Description** |
 ---------|----------|----------|
  Catalogue of IoT regulatory policies and Certifications| TBD | TBD
-
-
 
 Not what you are looking for? Please have a look at the [Internet of Things Page Archive](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project).
 
