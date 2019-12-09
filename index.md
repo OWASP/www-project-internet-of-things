@@ -31,9 +31,9 @@ The project looks to define a structure for various IoT sub-projects separated i
 
 ### Governance
 
-|  **Project** | **Project Leader(s)** | **Description** |
+| **Project** | **Project Leader(s)** | **Description** |
 |---|---|---|
-<img width="250"/> Catalogue of IoT regulatory policies and Certifications| <img width="250"/> TBD | TBD
+<img width="250"/> Catalogue of IoT regulatory policies and Certifications | <img width="250"/> TBD | TBD
 
 Not what you are looking for? Please have a look at the [Internet of Things Page Archive](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project).
 
