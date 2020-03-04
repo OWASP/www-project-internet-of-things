@@ -83,8 +83,21 @@ The Firmware Analysis Project provides: Security testing guidance for vulnerabil
 - Aaron Guzman
 
 ### Description
-The Firmware Security Testing Methodology is composed of nine stages tailored to enable security researchers, software developers, consultants, hobbyists, and Information Security professionals with conducting firmware security assessments.
+The Firmware Security Testing Methodology (FSTM) is composed of nine stages tailored to enable security researchers, software developers, consultants, hobbyists, and Information Security professionals with conducting firmware security assessments.
+
 GitHub: https://github.com/scriptingxss/owasp-fstm
+
+| **Stage** | **Description** |
+|---|---|
+| 1. Information gathering and reconnaissance | Acquire all relative technical and documentation details pertaining to the target device's firmware |
+| 2. Obtaining firmware | Attain firmware using one or more of the proposed methods listed |
+| 3. Analyzing firmware | Examine the target firmware's characteristics |
+| 4. Extracting the filesystem | Carve filesystem contents from the target firmware |
+| 5. Analyzing filesystem contents | Statically analyze extracted filesystem configuration files and binaries for vulnerabilities |
+| 6. Emulating firmware | Emulate firmware files and components |
+| 7. Dynamic analysis | Perform dynamic security testing against firmware and application interfaces |
+| 8. Runtime analysis | Analyze compiled binaries during device runtime |
+| 9. Binary Exploitation | Exploit identified vulnerabilities discovered in previous stages to attain root and/or code execution |
 
 <a href="/assets/images/cover_ofstm.png"><img src="/assets/images/cover_ofstm.png" width="75%"/></a>
 
