@@ -99,7 +99,7 @@ GitHub: https://github.com/scriptingxss/owasp-fstm
 | 8. Runtime analysis | Analyze compiled binaries during device runtime |
 | 9. Binary Exploitation | Exploit identified vulnerabilities discovered in previous stages to attain root and/or code execution |
 
-<a href="/assets/images/cover_ofstm.png"><img src="/assets/images/cover_ofstm.png" width="75%"/></a>
+![FSTM](/assets/images/cover_ofstm.png)
 
 <br><br>
 ## [ByteSweep](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=ByteSweep)
