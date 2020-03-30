@@ -1,13 +1,14 @@
 ### Active OWASP Internet of Things projects
 
-[OWASP Firmware Security Testing Methodology](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Firmware_Security_Testing_Methodology)
+[OWASP Firmware Security Testing Methodology](https://github.com/scriptingxss/owasp-fstm)
 
 [OWASP IoT Top 10](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoT_Top_10)
 
-[OWASP IoT Top 10 Mapping Project](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=OWASP_IoT_Top_10_2018_Mapping_Project)
+[OWASP IoT Top 10 Mapping Project](https://github.com/scriptingxss/OWASP-IoT-Top-10-2018-Mapping)
 
-[OWASP IoTGoat](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoTGoat)
+[OWASP IoTGoat](https://github.com/OWASP/IoTGoat/)
 
-[ByteSweep](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=ByteSweep)
+[IoT Security Verification Standard](https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS)
 
-[Firmware Analysis Project](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Firmware_Analysis)
+[ByteSweep](https://gitlab.com/bytesweep/bytesweep)
+
