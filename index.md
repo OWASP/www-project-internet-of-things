@@ -67,7 +67,7 @@ Provides mappings of the OWASP IoT Top 10 2018 to industry publications and sist
 | I10 Poor Physical Security | I10 Lack of Physical Hardening |
 
 <br><br>
-## [IoTGoat](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoTGoat)
+## [IoTGoat](https://github.com/OWASP/IoTGoat)
 
 ### Project Leader(s)
 - Aaron Guzman
