@@ -8,7 +8,7 @@ level: 3
 ---
 
 
-![OWASP Internet of Things image](/assets/images/owasp_iotlogo.png)
+![OWASP Internet of Things image](assets/images/owasp_iotlogo.png)
 
 The OWASP Internet of Things Project is designed to help manufacturers, developers, and consumers better understand the security issues associated with the Internet of Things, and to enable users in any context to make better security decisions when building, deploying, or assessing IoT technologies.
 
