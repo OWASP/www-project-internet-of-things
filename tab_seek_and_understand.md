@@ -19,7 +19,7 @@ tags: seek-understand
 Top ten things to avoid when building, deploying or managing IoT systems.
 
 
-![IoT Top 10 2018](/assets/images/OWASP-IoT-Top-10-2018-final.jpg)
+![IoT Top 10 2018](assets/images/OWASP-IoT-Top-10-2018-final.jpg)
 
 | [OWASP IoT Top 10 2018](https://www.owasp.org/images/1/1c/OWASP-IoT-Top-10-2018-final.pdf) | Description |
 | :--- | :--- |
