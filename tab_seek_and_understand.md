@@ -1,5 +1,6 @@
 ---
 title: Seek_And_Understand
+diplaytext: Seek and Understand
 layout:  null
 tab: true
 order: 1
