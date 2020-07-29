@@ -68,6 +68,9 @@ Provides mappings of the OWASP IoT Top 10 2018 to industry publications and sist
 - Paulino Calderon
 
 ### Description
-IoTGoat is a deliberately insecure firmware based on OpenWrt. The project’s goal is to teach users about the most common vulnerabilities typically found in IoT devices. The vulnerabilities will be based on the top 10 vulnerabilities as documented by OWASP: https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project. IoTGoat is expected to be released in 2020.
+IoTGoat is a deliberately insecure firmware based on OpenWrt. The project’s goal is to teach users about the most common vulnerabilities typically found in IoT devices. The vulnerabilities will be based on the top 10 vulnerabilities as documented by OWASP: [https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project).
+
+### Releases
+* [OWASP IoTGoat v1.0 is out!](https://github.com/OWASP/IoTGoat/releases/tag/v1.0) Please send us your feedback!
 
 ![IoTGoat](assets/images/blue-logo-text.png)
