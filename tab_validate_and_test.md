@@ -19,7 +19,7 @@ The OWASP IoT Security Testing Guide provides a comprehensive methodology for pe
 
 The methodology, the underlying models and the catalog of test cases present tools that can be used separately and in conjunction with each other.
 
-Check out the projects GitHub for more details: [https://github.com/scriptingxss/owasp-fstm](https://github.com/OWASP/owasp-istg)
+Check out the projects GitHub for more details: [https://github.com/OWASP/owasp-istg](https://github.com/OWASP/owasp-istg)
 <br><br>
 
 ## [Firmware Security Testing Methodology (FSTM)](https://github.com/scriptingxss/owasp-fstm)
