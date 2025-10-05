@@ -1,0 +1,45 @@
+audience:
+  - builder
+leaders:
+  - name: Daniel Miessler
+    email: Daniel.Miessler@owasp.org
+    github: danielmiessler
+  - name: Aaron Guzman
+    email: aaron.guzman@owasp.org
+    github: scriptingxss
+  - name: Fotios Chantzis
+    email: ithilgore.ryu.l@gmail.com
+  - name: Paulino Calderon
+    email: paulino.calderonpale@owasp.org
+    github: cldrn
+level: 3
+license:
+  - CC-BY-SA-4.0
+  - GPL-3.0
+  - MIT
+name: OWASP Internet of Things
+pitch: Description for OWASP Internet of Things
+repositories:
+  - name: www-project-internet-of-things
+    url: https://github.com/OWASP/www-project-internet-of-things
+    description: The OWASP home for the Internet of Things project
+  - name: IoT-Security-Verification-Standard-ISVS
+    url: https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS
+    description: OWASP IoT Security Verification Standard (ISVS)
+  - name: IoTGoat
+    url: https://github.com/OWASP/IoTGoat
+    description: ' IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found
+      vulnerabilities in IoT devices.'
+  - name: owasp-fstm
+    url: https://github.com/scriptingxss/owasp-fstm
+    description: The Firmware Security Testing Methodology (FSTM) is composed of nine stages tailored to enable security researchers, software developers,
+      consultants, and Information Security professionals with conducting firmware security assessments.
+  - name: OWASP-IoT-Top-10-2018-Mapping
+    url: https://github.com/scriptingxss/OWASP-IoT-Top-10-2018-Mapping
+    description: OWASP IoT Top 10 2018 Mapping Project
+tags:
+  - seek-understand
+  - validate-test
+  - governance
+type: documentation
+website: https://owasp.org/www-project-internet-of-things
